@@ -1,3 +1,7 @@
+This code is associated with the paper from Scheffer et al., "A connectome and analysis of the adult <i>Drosophila central<i> brain". eLife, 2020. http://doi.org/10.7554/eLife.57443
+
+
+
 # N5 [![Build Status](https://travis-ci.com/saalfeldlab/n5.svg?branch=master)](https://travis-ci.com/saalfeldlab/n5)
 
 The N5 API specifies the primitive operations needed to store large chunked n-dimensional tensors, and arbitrary meta-data in a hierarchy of groups similar to HDF5.
